@@ -14,6 +14,20 @@ When I move computers, here's what I need to do (Macbook)
 - [ ] Install [RayCast](https://www.raycast.com/)
 - [ ] Install [eqmac](https://eqmac.app/)
 
+### iTerm Settings
+- [ ] Set a background ( I usually pick something from NASA)
+- [ ] Theme is [1984](https://github.com/covertbert/iterm2-1984)
+- [ ] Set Status bar with Working Directory, timestamp, and search
+
+### Oh My Zsh settings
+- [ ] [Theme](https://github.com/dracula/zsh)
+- [ ] In ~/.zshrc:
+```sh
+DRACULA_DISPLAY_TIME=1
+DRACULA_DISPLAY_CONTEXT=1
+DRACULA_ARROW_ICON="⛰ "
+```
+
 ## Visual Studio Code
 ### Theme
 - SynthWave '84
