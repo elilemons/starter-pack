@@ -28,6 +28,7 @@ When I move computers, here's what I need to do (Macbook)
 - Alphabetical Sorter
 - Background
 - BongoCat
+- Bracket Pair Color DLW
 - Escape HTML Code
 - ESLint
 - Github Actions
