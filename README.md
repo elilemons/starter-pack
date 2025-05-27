@@ -12,6 +12,7 @@ When I move computers, here's what I need to do (Macbook)
 - [ ] [Setup verified commits](https://docs.github.com/en/authentication/managing-commit-signature-verification)
 - [ ] Install [VSCode](https://code.visualstudio.com/)
 - [ ] Install [RayCast](https://www.raycast.com/)
+- [ ] Install [eqmac](https://eqmac.app/)
 
 ## Visual Studio Code
 ### Theme
