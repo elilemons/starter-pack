@@ -1,18 +1,15 @@
 # starter-pack
 When I move computers, here's what I need to do (Macbook)
 
-- [ ] Install brew
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+- [ ] Install [brew](https://brew.sh/)
+- [ ] Add brew to path (for m1 chips)
 `echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile`
 `eval "$(/opt/hebrew/bin/brew shellenv)"`
-- [ ] Install NVM
-`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash`
-- [ ] Install Oh my zsh
-`brew install zsh`
-- [ ] Install iTerm
-- [ ] Install git
+- [ ] Install [NVM](https://github.com/nvm-sh/nvm)
+- [ ] Install [Oh my zsh](https://ohmyz.sh/#install)
+- [ ] Install [iTerm](https://iterm2.com/)
+- [ ] Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [ ] [Setup verified commits](https://docs.github.com/en/authentication/managing-commit-signature-verification)
-`brew install --cask iterm2`
 - [ ] Install [VSCode](https://code.visualstudio.com/)
 - [ ] Install [RayCast](https://www.raycast.com/)
 
